@@ -1,0 +1,6 @@
+{
+  "/api/quote/route": "app/api/quote/route.js",
+  "/api/chart/route": "app/api/chart/route.js",
+  "/page": "app/page.js",
+  "/t/[ticker]/page": "app/t/[ticker]/page.js"
+}
